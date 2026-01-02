@@ -1,0 +1,138 @@
+{
+  "pays": "Roumanie",
+  "drapeau": "🇷🇴",
+  "symbole": "🏰",
+  "titre": "Évasion médiévale et détente en Transylvanie",
+  "budget_total": "760€",
+  "duree": "2 jours",
+  "temps_vol": "4h35 depuis Paris, France",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et charme de la vieille ville",
+      "legende": "Après votre arrivée à Sibiu, plongez directement dans l'atmosphère médiévale de la Grande Place. Flânez dans les ruelles pavées, admirez l'architecture unique et laissez-vous charmer par le Pont des Mensonges, avant de savourer un dîner traditionnel dans un cadre historique.",
+      "lieu": "Sibiu",
+      "activites": [
+        "🛬 <strong>Arrivée à Sibiu</strong>: Atterrissage à l'aéroport international de Sibiu et transfert vers le centre-ville. Le trajet dure environ 15-20 minutes.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Check-in et dépôt des bagages pour profiter de la ville en toute légèreté. Un hôtel 3 étoiles dans le centre historique est idéal.",
+        "🚶‍♀️ <strong>Découverte de la Grande Place (Piața Mare)</strong>: Imprégnez-vous de l'ambiance de cette place historique, entourée de bâtiments baroques et gothiques. C'est le cœur vibrant de la ville.",
+        "🌉 <strong>Traversée du Pont des Mensonges</strong>: Explorez ce pont emblématique et découvrez la légende qui l'entoure, offrant une vue charmante sur la Petite Place."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Piața Mare, Sibiu",
+          "categorie": "Place historique",
+          "coords": { "lat": 45.7960, "lng": 24.1520 }
+        },
+        {
+          "nom_recherche": "Podul Minciunilor, Sibiu",
+          "categorie": "Pont historique",
+          "coords": { "lat": 45.7952, "lng": 24.1513 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Monnaie locale",
+          "texte": "La monnaie en Roumanie est le Leu Roumain (RON). Prévoyez un peu de liquide pour les petits achats, bien que les cartes soient largement acceptées."
+        },
+        {
+          "symbole": "🚕",
+          "titre": "Transfert aéroport",
+          "texte": "Des taxis ou des services de VTC sont facilement disponibles à l'aéroport de Sibiu pour rejoindre le centre-ville. Le coût est raisonnable."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Culture, art et saveurs locales",
+      "legende": "Cette journée est dédiée à la détente culturelle et à la découverte des traditions roumaines. Explorez le fascinant Musée National Brukenthal, puis admirez la majestueuse Cathédrale Orthodoxe, avant de vous offrir un moment de relaxation dans un café local et de savourer les spécialités culinaires.",
+      "lieu": "Sibiu",
+      "activites": [
+        "🏛️ <strong>Exploration du Musée National Brukenthal</strong>: Admirez les collections d'art européen et roumain dans l'un des plus anciens musées de Roumanie, situé sur la Grande Place. Une immersion culturelle douce.",
+        "⛪ <strong>Visite de la Cathédrale Métropolitaine Orthodoxe</strong>: Laissez-vous impressionner par l'architecture byzantine et les fresques intérieures de ce lieu de culte majeur, un havre de paix au cœur de la ville.",
+        "☕ <strong>Pause détente dans un café local</strong>: Savourez un café ou une pâtisserie roumaine dans l'un des charmants cafés de la vieille ville. Idéal pour observer l'animation locale."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Muzeul Național Brukenthal, Sibiu",
+          "categorie": "Musée d'art",
+          "coords": { "lat": 45.7960, "lng": 24.1520 }
+        },
+        {
+          "nom_recherche": "Catedrala Mitropolitană Ortodoxă, Sibiu",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 45.7941, "lng": 24.1534 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "À pied",
+          "texte": "Le centre historique de Sibiu est très compact et se visite facilement à pied. Prévoyez des chaussures confortables pour les pavés."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Dîner typique",
+          "texte": "De nombreux restaurants dans la vieille ville proposent une cuisine roumaine authentique. N'hésitez pas à demander les spécialités locales."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "407 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "40 €/pers (transferts aéroport, taxis occasionnels)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "130 €/pers (environ 65€/jour pour 2 jours)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "150 €/pers (2 nuits en hôtel 3*, base chambre double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "30 €/pers (entrées musées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Avril et Octobre (plus frais)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La langue officielle est le roumain. L'anglais est parlé dans les zones touristiques et par les jeunes.", "symbole": "🗣️" },
+    { "titre": "Les prises électriques sont de type F (deux broches rondes), comme en France. Pas besoin d'adaptateur.", "symbole": "🔌" },
+    { "titre": "Sibiu est une ville sûre. Comme partout, soyez vigilant dans les lieux très fréquentés.", "symbole": "✅" },
+    { "titre": "Le réseau Wi-Fi est généralement excellent et gratuit dans la plupart des hôtels et cafés.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Les \"yeux\" de Sibiu",
+      "texte": "Les toits des maisons de la vieille ville sont percés de lucarnes qui ressemblent étrangement à des yeux, donnant l'impression que la ville vous observe. Une particularité architecturale unique et un peu mystérieuse!"
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Le Pont des Mensonges",
+      "texte": "La légende raconte que le Pont des Mensonges s'écroule si quelqu'un y prononce un mensonge, ou qu'il grince et craque pour dénoncer les menteurs. Une anecdote amusante à tester lors de votre passage!"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Sarmale",
+      "description": "Feuilles de chou farcies de viande hachée et de riz, mijotées dans une sauce tomate. Un plat réconfortant et emblématique de la cuisine roumaine, souvent servi avec de la mămăligă (polenta)."
+    },
+    {
+      "symbole": "🍖",
+      "titre": "Mici (Mititei)",
+      "description": "Petites saucisses grillées sans peau, généralement servies avec de la moutarde et du pain. Un incontournable des barbecues et des marchés roumains, parfait pour un déjeuner rapide et savoureux."
+    },
+    {
+      "symbole": "🍰",
+      "titre": "Papanasi",
+      "description": "Beignets de fromage frais frits ou bouillis, servis chauds avec de la confiture de fruits (souvent de myrtilles) et de la crème aigre. Un dessert gourmand et unique à ne pas manquer!"
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-SBZ/2026-05-15/2026-05-17", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Sibiu", "url": "https://www.sibiucity.ro/en", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Sibiu", "url": "https://www.accuweather.com/fr/ro/sibiu/287702/weather-forecast/287702", "symbole": "🌤️" }
+  ]
+}
